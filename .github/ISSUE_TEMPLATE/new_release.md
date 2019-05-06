@@ -18,3 +18,4 @@ assignees: ''
 - [ ] Run `cargo publish`
 - [ ] Create a Tag/Release (e.g. '0.1.2'):
        `hub release [VERSION]`
+       Use the relevant part of the `changelog.md` as the release description.
